@@ -6,3 +6,10 @@ h1 {
 body {
     background-color: aliceblue;
 }
+
+p,
+li {
+    color: rgb(7, 3, 10);
+    text-align: left;
+    margin: 10px;
+}
